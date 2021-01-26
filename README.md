@@ -2,5 +2,5 @@
 
 ## Развёртывание ##
 ```bash
-$ git submodule add https://github.com/ura2404/TildaModule.git modules/Tilda
+$ git submodule add -f https://github.com/ura2404/TildaModule.git modules/Tilda
 ```
